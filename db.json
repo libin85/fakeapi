@@ -1,7 +1,7 @@
 {
-    "driver_name": "WcpUserLocationAutoUpdate",
+    "driver_name": "testdriver",
     "payload_result": "Success",
     "payload_code": "200",
-    "operation": "update_user_location",
+    "operation": "test_operation",
     "parameters": ""
 }
